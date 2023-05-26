@@ -1,0 +1,77 @@
+{
+  "linkset": [
+    {
+      "anchor": "https://b2share.eudat.eu/api/records/2a39a81961894a8da248015ef6fc0ffe",
+      "cite-as": [
+        {
+          "href": "http://hdl.handle.net/11304/76db5f2a-fa16-11e4-8a18-f31aa6f4d448"
+        }
+      ],
+      "describedby": [
+        {
+          "href": "https://citation.crosscite.org/format?style=bibtex&doi=10.15497/A675341C-F705-4136-B7C3-B9C14B556186",
+          "type": "application/x-bibtex"
+        }
+      ],
+      "item": [
+        {
+          "href": "https://b2share.eudat.eu/api/files/325c6c1e-9d25-40c6-9ff1-68152f546459",
+          "type": "application/pdf"
+        }
+      ],
+      "license": {
+        "href": "http://creativecommons.org/licenses/by/4.0/"
+      },
+      "type": [
+        {
+          "href": "https://schema.org/AboutPage"
+        }
+      ]
+    },
+    {
+      "anchor": "http://localhost:5000/api/files/9d5cb5d6-9a5b-4819-bd45-48e9f7984ed0/myfile",
+      "collection": [
+        {
+          "href": "https://b2share.eudat.eu/api/records/2a39a81961894a8da248015ef6fc0ffe",
+          "type": "text/html"
+        }
+      ]
+    },
+    {
+      "anchor": "http://localhost:5000/api/files/9d5cb5d6-9a5b-4819-bd45-48e9f7984ed0/myfile-ver0",
+      "collection": [
+        {
+          "href": "https://b2share.eudat.eu/api/records/2a39a81961894a8da248015ef6fc0ffe",
+          "type": "text/html"
+        }
+      ]
+    },
+    {
+      "anchor": "http://localhost:5000/api/files/9d5cb5d6-9a5b-4819-bd45-48e9f7984ed0/myfile-ver1",
+      "collection": [
+        {
+          "href": "https://b2share.eudat.eu/api/records/2a39a81961894a8da248015ef6fc0ffe",
+          "type": "text/html"
+        }
+      ]
+    },
+    {
+      "anchor": "http://localhost:5000/api/files/9d5cb5d6-9a5b-4819-bd45-48e9f7984ed0/myfile-ver2",
+      "collection": [
+        {
+          "href": "https://b2share.eudat.eu/api/records/2a39a81961894a8da248015ef6fc0ffe",
+          "type": "text/html"
+        }
+      ]
+    },
+    {
+      "anchor": "http://localhost:5000/api/files/9d5cb5d6-9a5b-4819-bd45-48e9f7984ed0/myfile-ver3",
+      "collection": [
+        {
+          "href": "https://b2share.eudat.eu/api/records/2a39a81961894a8da248015ef6fc0ffe",
+          "type": "text/html"
+        }
+      ]
+    }
+  ]
+}

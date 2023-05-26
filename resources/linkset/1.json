@@ -1,0 +1,40 @@
+{
+  "linkset": [
+    {
+      "anchor": "https://b2share.eudat.eu/records/41534be034dd4a50bc7cd21c32eaf2d6",
+      "cite-as": [
+        {
+          "href": "http://hdl.handle.net/11304/e79cd593-f2bc-46b6-a955-48591a0380db"
+        }
+      ],
+      "describedby": [
+        {
+          "href": "https://citation.crosscite.org/format?style=bibtex&doi=10.15497/A675341C-F705-4136-B7C3-B9C14B556186",
+          "type": "application/x-bibtex"
+        }
+      ],
+      "item": [
+        {
+          "href": "https://b2share.eudat.eu/api/files/02f2de8f-2401-4343-a9e3-447c490c0cca/EUDAT2020-DEL-WP2-D2.4-Report_on_Governance_Model.pdf",
+          "type": "application/pdf"
+        },
+        {
+          "href": "https://b2share.eudat.eu/api/files/02f2de8f-2401-4343-a9e3-447c490c0cca/EUDAT2020-DEL-WP3-D3.2-Detailed_Plan_for_Training_Activities_in_Months%2013-36.pdf",
+          "type": "application/pdf"
+        },
+        {
+          "href": "https://b2share.eudat.eu/api/files/02f2de8f-2401-4343-a9e3-447c490c0cca/EUDAT2020-DEL-WP4-D4.3-Service_Uptake_within_Communities.pdf",
+          "type": "application/pdf"
+        }
+      ],
+      "license": {
+        "href": "http://creativecommons.org/licenses/by/4.0/"
+      },
+      "type": [
+        {
+          "href": "https://schema.org/AboutPage"
+        }
+      ]
+    }
+  ]
+}
